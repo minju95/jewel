@@ -4,7 +4,7 @@
 ## 개요
 * 프로젝트명: Jewelry
 * 일정: 2020.06 ~ 2020.07
-* 팀 구성: 노윤태, 박민주, 유성표, 이재호, 최연지, 함범수(팀장)
+* 팀 구성: 6명
 * 프로젝트 소개: 주얼리 쇼핑몰로, 상품 구매/결제 시스템이 구현된 웹 애플리케이션 
 * 개발 환경 및 사용기술
   - Programming Language: Java, JSP, HTML, CSS, JavaScript
@@ -16,6 +16,7 @@
     - I'mport API
     - Kakao Developer(KakaoPay API)
     - Summernote(Wysiwyg HTML editor)
+    - 다음 우편번호 서비스 API
 ## 내용
 * 구현기능
   - 회원가입
