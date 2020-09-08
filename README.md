@@ -13,7 +13,6 @@
   - IDE & Tool: Eclipse STS, SQLDeveloper, Maven
   - API:
     - I'mport API - 결제 시스템
-    - Kakao Developer(KakaoPay API) 
     - Summernote(Wysiwyg HTML editor) - 리뷰 작성
     - 다음 우편번호 서비스 API - 회원가입 시 주소 찾기
 ## 내용
