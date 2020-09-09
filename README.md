@@ -33,7 +33,7 @@
 ## 개발 관련 산출 문서
 * ERD
 <div>
-<img src="https://user-images.githubusercontent.com/59958016/92549299-e7b90c80-f293-11ea-8d2d-33e2d5c26971.png" width="400" height="300"></img>
+<img src="https://user-images.githubusercontent.com/59958016/92549299-e7b90c80-f293-11ea-8d2d-33e2d5c26971.png" width="400" height="300" style="margin-right: 50"></img>
 <img src="https://user-images.githubusercontent.com/59958016/92550020-97db4500-f295-11ea-960d-7a4e2a2f000d.png" width="400" height="300"></img>
 </div>
 
