@@ -5,6 +5,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/59958016/92550049-a45f9d80-f295-11ea-8be7-4226a21d3e08.png" width="400" height="300"></img>
 </div>
+
 ## Projoect Summary
 * 프로젝트명: Jewelry
 * 일정 및 인원: 2020.06 ~ 2020.07, 6명 (본인 포함)
