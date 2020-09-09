@@ -1,7 +1,9 @@
 # Jewelry
 주얼리 쇼핑몰 웹 프로젝트
 
-## 개요
+## Screenshots
+
+## Projoect Summary
 * 프로젝트명: Jewelry
 * 일정 및 인원: 2020.06 ~ 2020.07, 6명 (본인 포함)
 * 프로젝트 소개: 주얼리 쇼핑몰로 상품 구매/결제 시스템이 구현된 웹 애플리케이션 
@@ -15,7 +17,7 @@
     - I'mport API - 결제 시스템
     - Summernote(Wysiwyg HTML editor) - 리뷰 작성
     - 다음 우편번호 서비스 API - 회원가입 시 주소 찾기
-## 내용
+## Primary Functions
 * 구현기능
   - 회원가입
   - 로그인
