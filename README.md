@@ -2,7 +2,9 @@
 주얼리 쇼핑몰 웹 프로젝트
 
 ## Screenshots
-
+<div>
+  <img src="https://user-images.githubusercontent.com/59958016/92550049-a45f9d80-f295-11ea-8be7-4226a21d3e08.png" width="400" height="300"></img>
+</div>
 ## Projoect Summary
 * 프로젝트명: Jewelry
 * 일정 및 인원: 2020.06 ~ 2020.07, 6명 (본인 포함)
@@ -31,6 +33,7 @@
 * ERD
 <div>
 <img src="https://user-images.githubusercontent.com/59958016/92549299-e7b90c80-f293-11ea-8d2d-33e2d5c26971.png" width="400" height="300"></img>
+<img src="https://user-images.githubusercontent.com/59958016/92550020-97db4500-f295-11ea-960d-7a4e2a2f000d.png" width="400" height="300"></img>
 </div>
 
 * 요구사항 정의서 https://docs.google.com/spreadsheets/d/1dHMhwn6-0G9O5oRBnNHDYeWI5j0vLSe4Lwf4P7VpoY4/edit?usp=sharing
