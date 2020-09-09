@@ -1,5 +1,5 @@
-# Jewelry
-주얼리 쇼핑몰 웹 프로젝트
+# [Toy Project] Jewelry
+주얼리 쇼핑몰 웹 프로젝트 
 
 ## Screenshots
 <div>
