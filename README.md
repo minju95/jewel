@@ -26,7 +26,8 @@
   - 상품 구매 및 결제
   - 커뮤니티 (공지사항, 이벤트)
   - 관리자페이지(객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)
-  
+
+## 개발 관련 산출 문서
 * URI 매핑 설계서
   - https://docs.google.com/spreadsheets/d/1aNEKs-a-HIASK7nrZ5AGOi4cE5QN7NkIME-xe-vHKYU/edit?usp=sharing
 
