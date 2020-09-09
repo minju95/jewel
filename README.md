@@ -28,6 +28,10 @@
   - 관리자페이지(객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)
 
 ## 개발 관련 산출 문서
+* ERD
+<div>
+<img src="https://user-images.githubusercontent.com/59958016/92549299-e7b90c80-f293-11ea-8d2d-33e2d5c26971.png" width="400" height="300"></img>
+</div>
 * URI 매핑 설계서
   - https://docs.google.com/spreadsheets/d/1aNEKs-a-HIASK7nrZ5AGOi4cE5QN7NkIME-xe-vHKYU/edit?usp=sharing
 
