@@ -1,4 +1,4 @@
-# [Toy Project] Jewelry
+# [Side Project] Jewelry
 주얼리 쇼핑몰 웹 개발 프로젝트 
 
 ## Screenshots
