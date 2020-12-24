@@ -19,14 +19,13 @@ Jewelry Store Website implemented product purchse/payment functions
     - Summernote(Wysiwyg HTML editor) used for product review
     - Daum Postcode API used for searching user's address
 ## Primary Functions
-* 구현기능
-  - Sign Up
-  - 로그인
-  - 마이페이지(나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)
-  - 장바구니
-  - 상품 구매 및 결제
-  - 커뮤니티 (공지사항, 이벤트)
-  - 관리자페이지(객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)
+* Sign Up
+* Sign In
+* Product Purchase/Payment
+* Cart
+* 커뮤니티 (Announcement, Promotion)
+* User Dashboard (나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)
+* Admin Dashboard (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)
 
 ## Software Documentation
 * ERD
