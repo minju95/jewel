@@ -17,7 +17,7 @@ Jewelry Store Website implemented product purchse/payment functions
   - API:
     - I'mport API used for payment integration
     - Summernote(Wysiwyg HTML editor) used for product review
-    - 다음 우편번호 서비스 API - 회원가입 시 주소 찾기
+    - Daum Postcode API used for searching user's address
 ## Primary Functions
 * 구현기능
   - 회원가입
