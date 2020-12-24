@@ -23,7 +23,7 @@ Jewelry Store Website implemented product purchse/payment functions
 * Sign In
 * Product Purchase/Payment
 * Cart
-* 커뮤니티 (Announcement, Promotion)
+* Announcement, Promotion
 * User Dashboard (나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)
 * Admin Dashboard (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)
 
