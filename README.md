@@ -1,5 +1,5 @@
 # [Side Project] Jewelry Store Website
-주얼리 쇼핑몰 웹 개발 프로젝트 
+Jewelry Store Website implemented product purchse/payment functions
 
 ## Screenshots
 <div>
@@ -7,9 +7,8 @@
 </div>
 
 ## Project Overview
-* 일정 및 인원: 2020.06 ~ 2020.07, 6명 (본인 포함)
-* 프로젝트 소개: 주얼리 쇼핑몰로 상품 구매/결제 시스템이 구현된 웹 애플리케이션 
-* 개발 환경 및 사용기술
+* Duration: 2020.06 ~ 2020.07
+* Environment
   - Programming Language: Java, JSP, HTML, CSS, JavaScript
   - Framework: Spring Framework 4.0, MyBatis
   - DataBase: Oracle 11g
