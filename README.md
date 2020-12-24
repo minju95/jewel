@@ -37,5 +37,5 @@
 </div>
 
 * Software Requirements Specification: https://docs.google.com/spreadsheets/d/1dHMhwn6-0G9O5oRBnNHDYeWI5j0vLSe4Lwf4P7VpoY4/edit?usp=sharing
-* 테이블 정의서   https://docs.google.com/spreadsheets/d/164RZsDc1dPVPgpsinQJng1lfkwv01Owr_Nx1P22UpZ8/edit?usp=sharing
+* Database Doucmentation: https://docs.google.com/spreadsheets/d/164RZsDc1dPVPgpsinQJng1lfkwv01Owr_Nx1P22UpZ8/edit?usp=sharing
 * URI 매핑 설계서 https://docs.google.com/spreadsheets/d/1aNEKs-a-HIASK7nrZ5AGOi4cE5QN7NkIME-xe-vHKYU/edit?usp=sharing
