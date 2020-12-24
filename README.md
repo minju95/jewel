@@ -16,8 +16,8 @@
   - Server: Tomcat 9.0
   - IDE & Tool: Eclipse STS, SQLDeveloper, Maven
   - API:
-    - I'mport API - 결제 시스템
-    - Summernote(Wysiwyg HTML editor) - 리뷰 작성
+    - I'mport API used for payment integration
+    - Summernote(Wysiwyg HTML editor) used for product review
     - 다음 우편번호 서비스 API - 회원가입 시 주소 찾기
 ## Primary Functions
 * 구현기능
